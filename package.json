@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {
-    "start": "gulp",
+    "test": "gulp",
       "start": "gulp serve"
   },,
   "devDependencies": {
